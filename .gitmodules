@@ -1,6 +1,6 @@
-[submodule "gulp-bower"]
-	path = gulp-bower
-	url = https://github.com/jitesoft/docker-node-gulp-bower
 [submodule "node-base"]
 	path = node-base
 	url = git@github.com:jitesoft/docker-node-base.git
+[submodule "npm-gulp-bower"]
+	path = npm-gulp-bower
+	url = git@github.com:jitesoft/docker-node-gulp-bower.git
