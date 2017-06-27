@@ -1,0 +1,3 @@
+[submodule "gulp-bower"]
+	path = gulp-bower
+	url = https://github.com/jitesoft/docker-node-gulp-bower
